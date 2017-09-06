@@ -1,6 +1,6 @@
 # Introduction to Machine Learning with Python
 
-### Install packages with pip
+### Install packages with pipenv
 use pip3 to install packages in a Python3 environment, run
 
-`pip3 install numpy scipy scikit-learn matplotlib pandas pillow graphviz notebook`
+`pipenv install numpy scipy scikit-learn matplotlib pandas pillow graphviz notebook`
